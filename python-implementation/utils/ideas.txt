@@ -1,0 +1,3 @@
+1. MAPE = custom function (must)
+2. MAE = custom function (optional)
+3. Radian = into the range (before training and before testing and also after results)
